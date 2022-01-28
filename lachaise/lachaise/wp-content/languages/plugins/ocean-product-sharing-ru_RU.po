@@ -1,0 +1,89 @@
+# Translation of Plugins - Ocean Product Sharing - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Ocean Product Sharing - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-21 15:52:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Ocean Product Sharing - Development (trunk)\n"
+
+#: template/product-share.php:40 template/product-share.php:58
+#: template/product-share.php:77 template/product-share.php:102
+msgid "Opens in a new window"
+msgstr "Открывается в новом окне"
+
+#: template/product-share.php:76
+msgid "Share on Pinterest"
+msgstr "Поделиться в Pinterest"
+
+#: template/product-share.php:28
+msgid "Share this product on social media"
+msgstr "Поделитесь этим товаром в соцсетях"
+
+#: template/product-share.php:101
+msgid "Share via email"
+msgstr "Поделиться по электронной почте"
+
+#. Description of the plugin
+msgid "A simple plugin to add social share buttons to your product page, compatible with WooCommerce and Easy Digital Downloads."
+msgstr "Простой плагин для добавления кнопок социальных сетей на страницу вашего продукта, совместимый с WooCommerce и Easy Digital Downloads."
+
+#: ocean-product-sharing.php:229
+msgid "Sharing Buttons"
+msgstr "Кнопки Поделиться"
+
+#: ocean-product-sharing.php:260
+msgid "Borders Color"
+msgstr "Цвет границ"
+
+#: ocean-product-sharing.php:139 ocean-product-sharing.php:148
+msgid "Cheatin&#8217; huh?"
+msgstr "Хакер, что ли?"
+
+#. Author URI of the plugin
+msgid "https://oceanwp.org/"
+msgstr "https://oceanwp.org/"
+
+#. Plugin URI of the plugin
+msgid "https://oceanwp.org/extension/ocean-product-sharing/"
+msgstr "https://oceanwp.org/extension/ocean-product-sharing/"
+
+#: ocean-product-sharing.php:285
+msgid "Icons Background Color"
+msgstr "Цвет фона значка"
+
+#: ocean-product-sharing.php:310
+msgid "Icons Color"
+msgstr "Цвет значков"
+
+#: template/product-share.php:111
+msgid "Mail This Product"
+msgstr "Отправить этот товар по почте"
+
+#. Plugin Name of the plugin
+msgid "Ocean Product Sharing"
+msgstr "Ocean Product Sharing"
+
+#. Author of the plugin
+msgid "OceanWP"
+msgstr "OceanWP"
+
+#: template/product-share.php:90
+msgid "Pin This Product"
+msgstr "Прикрепить этот товар"
+
+#: template/product-share.php:57 template/product-share.php:65
+msgid "Share on Facebook"
+msgstr "Поделиться в Facebook"
+
+#: ocean-product-sharing.php:208
+msgid "Product Sharing"
+msgstr "Поделится товаром"
+
+#: template/product-share.php:46
+msgid "Tweet This Product"
+msgstr "Твитнуть об этом товаре"
